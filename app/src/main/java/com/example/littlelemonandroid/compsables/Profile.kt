@@ -1,4 +1,4 @@
-package com.example.littlelemonandroidfinalproject.compsables
+package com.example.littlelemonandroid.compsables
 
 import android.content.Context
 import androidx.compose.foundation.BorderStroke
@@ -14,8 +14,6 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.text.KeyboardActions
-import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
@@ -33,17 +31,15 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.input.ImeAction
-import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.example.littlelemonandroidfinalproject.R
-import com.example.littlelemonandroidfinalproject.ui.theme.LittleLemonColor
-import com.example.littlelemonandroidfinalproject.ui.theme.button
-import com.example.littlelemonandroidfinalproject.ui.theme.caption
-import com.example.littlelemonandroidfinalproject.ui.theme.customShapes
+import com.example.littlelemonandroid.R
+import com.example.littlelemonandroid.ui.theme.LittleLemonColor
+import com.example.littlelemonandroid.ui.theme.button
+import com.example.littlelemonandroid.ui.theme.caption
+import com.example.littlelemonandroid.ui.theme.customShapes
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

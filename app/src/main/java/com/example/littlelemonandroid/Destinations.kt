@@ -1,4 +1,4 @@
-package com.example.littlelemonandroidfinalproject
+package com.example.littlelemonandroid
 
 interface Destinations {
     val route: String

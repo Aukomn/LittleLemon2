@@ -1,4 +1,4 @@
-package com.example.littlelemonandroidfinalproject
+package com.example.littlelemonandroid
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
@@ -27,7 +27,7 @@ class MenuViewModel (application: Application): AndroidViewModel(application) {
             AppDatabase::class.java,
             "database"
         ).build()
-    }
+     }
 
     fun getAllDatabaseMenuItems(): LiveData<List<MenuItemRoom>> {
         return database.menuItemDao().getAll()

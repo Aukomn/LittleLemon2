@@ -1,4 +1,4 @@
-package com.example.littlelemonandroidfinalproject.ui.theme
+package com.example.littlelemonandroid.ui.theme
 
 import androidx.compose.material3.Text
 import androidx.compose.material3.Typography
@@ -9,7 +9,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.em
 import androidx.compose.ui.unit.sp
-import com.example.littlelemonandroidfinalproject.R
+import com.example.littlelemonandroid.R
 
 val KarlaRegular = FontFamily(
     Font(R.font.karla_regular)

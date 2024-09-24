@@ -1,4 +1,4 @@
-package com.example.littlelemonandroidfinalproject.ui.theme
+package com.example.littlelemonandroid.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -14,10 +14,10 @@ import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
-import com.example.littlelemonandroidfinalproject.ui.theme.LittleLemonColor.cloud
-import com.example.littlelemonandroidfinalproject.ui.theme.LittleLemonColor.green
-import com.example.littlelemonandroidfinalproject.ui.theme.LittleLemonColor.pink
-import com.example.littlelemonandroidfinalproject.ui.theme.LittleLemonColor.yellow
+import com.example.littlelemonandroid.ui.theme.LittleLemonColor.cloud
+import com.example.littlelemonandroid.ui.theme.LittleLemonColor.green
+import com.example.littlelemonandroid.ui.theme.LittleLemonColor.pink
+import com.example.littlelemonandroid.ui.theme.LittleLemonColor.yellow
 
 private val DarkColorScheme = darkColorScheme(
     primary = green,

@@ -1,4 +1,4 @@
-package com.example.littlelemonandroidfinalproject
+package com.example.littlelemonandroid
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable

@@ -1,4 +1,4 @@
-package com.example.littlelemonandroidfinalproject.ui.theme
+package com.example.littlelemonandroid.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.ui.unit.dp

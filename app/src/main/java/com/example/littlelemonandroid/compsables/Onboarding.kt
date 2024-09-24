@@ -1,4 +1,4 @@
-package com.example.littlelemonandroidfinalproject.compsables
+package com.example.littlelemonandroid.compsables
 
 import android.content.Context
 import android.widget.Toast
@@ -48,12 +48,12 @@ import androidx.compose.ui.unit.dp
 import androidx.core.content.edit
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.example.littlelemonandroidfinalproject.R
-import com.example.littlelemonandroidfinalproject.ui.theme.LittleLemonColor
-import com.example.littlelemonandroidfinalproject.ui.theme.LittleLemonColor.green
-import com.example.littlelemonandroidfinalproject.ui.theme.button
-import com.example.littlelemonandroidfinalproject.ui.theme.caption
-import com.example.littlelemonandroidfinalproject.ui.theme.customShapes
+import com.example.littlelemonandroid.R
+import com.example.littlelemonandroid.ui.theme.LittleLemonColor
+import com.example.littlelemonandroid.ui.theme.LittleLemonColor.green
+import com.example.littlelemonandroid.ui.theme.button
+import com.example.littlelemonandroid.ui.theme.caption
+import com.example.littlelemonandroid.ui.theme.customShapes
 
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalComposeUiApi::class)
